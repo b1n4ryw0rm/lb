@@ -1,0 +1,14 @@
+
+ mov r0, a
+ add r0, b
+ mov t1, r0
+ mov r0, c
+ mul r0, d
+ mov t2, r0
+ mov r0, t1
+ sub r0, t2
+ mov t, r0
+ mov r0, t
+ mov x, r0
+ mov r0, t
+ mov x, r0
